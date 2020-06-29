@@ -1,0 +1,10 @@
+Country,Impressions,Status
+Canada,40000,Parent results
+United Kingdom,10000,Parent results
+United States,190000,Parent results
+Canada,30000,Not Parent results
+United Kingdom,40000,Not Parent results
+United States,590000,Not Parent results
+Canada,900,unknown parent results
+United Kingdom,3000,unknown parent results
+United States,40000,unknown parent results

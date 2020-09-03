@@ -1,0 +1,13 @@
+Country,Impressions,Gender
+Canada,40000,male results
+United Kingdom,90000,male results
+United States,920000,male results
+Canada,100,female results
+United Kingdom,100000,female results
+United States,870000,female results
+Canada,40000,female and male results
+United Kingdom,190000,female and male results
+United States,1800000,female and male results
+Canada,0,unknown gender
+United Kingdom,30000,unknown gender
+United States,1500000,unknown gender
